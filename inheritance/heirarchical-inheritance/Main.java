@@ -1,5 +1,3 @@
-import javax.security.auth.callback.LanguageCallback;
-
 class Car{
     private int wheels;
     private int speed;
